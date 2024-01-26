@@ -53,6 +53,6 @@
 
     <h3>Take a screenshot that confirms your 
         development environment setup and include it as an image in the "ex1.php" file.</h3>
-    <img src="images/1.png" alt="" width="300" height="500">
+    <img src="images/1.png" alt="" width="500" height="300">
 </body>
 </html>
