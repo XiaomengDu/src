@@ -4,6 +4,7 @@
             background-color: #3498db; 
             padding: 20px; 
             color: #fff;
+            text-align: center; 
         }
     </style>
 <footer>
