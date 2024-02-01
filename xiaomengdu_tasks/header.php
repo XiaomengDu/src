@@ -5,13 +5,21 @@
     <title>HAMK</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<style>
+       
+        header {
+            background-color: #3498db; 
+            padding: 20px; 
+            color: #fff;
+        }
+    </style>
 <header>
     <p class="logo">Welcome</p>
-    <nav>
+</header>
+<nav>
         <ul>
-            <li><a href="ex2.php">ex1</a></li>
-            <li><a href="contact.php">ex2</a></li>
+            <li><a href="ex1.php">ex1</a></li>
+            <li><a href="ex2.php">ex2</a></li>
+            <li><a href="ex3.php">ex3</a></li>
         </ul>
     </nav>
-</header>
