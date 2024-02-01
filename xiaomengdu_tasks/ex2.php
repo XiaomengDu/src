@@ -1,6 +1,7 @@
 
 <?php
-$title = "Exercise 2: Create universal header, footer, or sidebar as per your layout done in the previous course.";include 'header.php'; ?>
+$title = "Exercise 2: Create universal header, footer, or sidebar as per your layout done in the previous course.";
+include 'header.php'; ?>
 
 
   <p>1.Design Universal Layout Elements: Based on the layout you created in the previous course, design a universal header, footer, and sidebar. Ensure that this layout is applied consistently across all individual tasks.</p>
