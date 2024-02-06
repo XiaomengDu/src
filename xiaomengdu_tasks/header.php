@@ -43,10 +43,10 @@
           <a class="nav-link" href="#">Exercise6</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercise7</a>
+          <a class="nav-link" href="index.php">Exercise7</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercise7</a>
+          <a class="nav-link" href="read.php">Exercise7</a>
         </li>
         
       </ul>
