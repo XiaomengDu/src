@@ -1,5 +1,5 @@
 <?php
-//new infomation add;
+//new infomation add;new1
 $title = "this is another title";
 include'header.php' ?>
 <h2>Hello World this is a new page</h2>
